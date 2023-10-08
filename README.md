@@ -4,9 +4,7 @@ Gpay-UI-CLI was structured and designed using Tailwind CSS with CLI method. The 
 To view the project, you should visit the provided link.
 
 ---
-✨**Source Link is Here**: 
-https://github.com/SwethaDSalvatore/Gpay-UI-CLI.git
-
+✨**Link is Here**: 
 | 🚀 Index | 🎆 Description |
 |--|--|
 | **License** |MIT  |
